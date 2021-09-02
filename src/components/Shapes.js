@@ -7,8 +7,8 @@ class shapes extends Component {
     super(props);
 
     this.state = {
-      shape: "shapes",
-      id: "#",
+      shape: "Shape Name",
+      id: "#shape",
     };
   }
 
